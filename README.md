@@ -1,4 +1,4 @@
-<img src="dominotion.png"  width="500"/>
+<img src="dominotion.png"  width="700"/>
 
 Simple single page and documentation style sheets.
 
